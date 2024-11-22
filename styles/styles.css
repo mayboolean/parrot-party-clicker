@@ -1,5 +1,5 @@
 body {
-    text-align: center;
+    text-align: center;   
   }
   
   main {
@@ -24,3 +24,6 @@ body {
     user-select: none;
   }
   
+  .enlarge {
+    transform: scale(2);
+  }
